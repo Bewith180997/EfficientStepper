@@ -1,4 +1,4 @@
-public class Test05
+public class EfficientStepper
 {
 
 	public static void main(String[] args) throws Throwable
