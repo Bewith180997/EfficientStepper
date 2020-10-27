@@ -6,7 +6,7 @@ import java.util.concurrent.TimeUnit;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
-class Tester05 {
+class EfficientStepperTester {
 
 	@Test
 	@DisplayName("Test 01")
